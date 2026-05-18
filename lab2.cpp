@@ -134,7 +134,7 @@ int main() {
     double c = test("ВАРИАНТ 3: ", A, B, mul3);
 
     cout << "Вариант 1: " << (a / b * 100) << "% от BLAS" << endl;
-    cout << "Вариант 2: 100% (эталон)" << endl;
+    cout << "Вариант 2: 100%" << endl;
     cout << "Вариант 3: " << (c / b * 100) << "% от BLAS" << endl;
 
 
